@@ -8,10 +8,17 @@ You can only use _putchar three times in your code
  */
 void more_numbers(void)
 {
-	int i;
-	for (i=0;i<=14;i++)
-	{      
-		_putchar(i*10);
+	int i = '0';
+	int val 
+	
+
+	while (i <= '14')
+	{
+		
+		val = i* 10
+		_putchar(val);
+		val=0
+		i++;
 	}
 	_putchar('\n');
 }
