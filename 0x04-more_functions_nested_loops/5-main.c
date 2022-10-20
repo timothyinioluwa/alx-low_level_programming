@@ -1,13 +1,13 @@
-
 #include "main.h"
 
 /**
- * main - check the code
+ * main - checks the code
  *
  * Return: Always 0.
  */
+
 int main(void)
 {
-    more_numbers();
+	more_numbers();
     return (0);
 }
